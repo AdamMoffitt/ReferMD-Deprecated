@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1905159071-glej0r7lgrdj8du97clsf5oqapmeg8kn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1905159071-glej0r7lgrdj8du97clsf5oqapmeg8kn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAtX_ykkq64ZGR6L04Wxuyf3s_Hlc8vvHY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1905159071</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.AdamsApps.MedRefer</string>
+	<key>PROJECT_ID</key>
+	<string>medrefer-react-native</string>
+	<key>STORAGE_BUCKET</key>
+	<string>medrefer-react-native.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1905159071:ios:c3b5558f22a11599816baa</string>
+	<key>DATABASE_URL</key>
+	<string>https://medrefer-react-native.firebaseio.com</string>
+</dict>
+</plist>
