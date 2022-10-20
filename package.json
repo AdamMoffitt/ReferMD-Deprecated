@@ -34,7 +34,7 @@
     "react-native-keyboard-manager": "^4.0.13-15",
     "react-native-masked-text": "^1.13.0",
     "react-native-picker-xg": "^1.0.0",
-    "react-native-reanimated": "^1.4.0",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^0.6.2",
     "react-native-screens": "^2.0.0-alpha.22",
     "react-native-sectioned-multi-select": "^0.7.6",
